@@ -33,10 +33,10 @@ You have the following code:
 ```
 
 How many elements will be red with a green border?
-
+the answer is 3 
 Choose the correct answer
 
 1) 1
 2) 2
-3) 3
+3) 3---> my answer
 4) 4
